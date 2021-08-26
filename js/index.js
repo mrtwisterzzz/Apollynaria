@@ -15,7 +15,7 @@ if (screen && screen.width > 900) {
                 } else if (y >= vk.top && y <= vk.bottom && x <= vk.right && x >= vk.left){
                         document.location.href = 'https://vk.com/apolly_nariya'
                 } else if (y >= inst.top && y <= inst.bottom && x <= inst.right && x >= inst.left){
-                        document.location.href = 'https://www.instagram.com/_appollinariya_/'
+                        document.location.href = 'https://www.instagram.com/apolly_nariya/'
                 }
 
 

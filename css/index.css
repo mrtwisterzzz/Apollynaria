@@ -63,7 +63,10 @@ html, body {
     color: #EBB1B1;
 }
 .doorname-text{
-    position: absolute;
+    position: fixed;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
     top: -4vh;
     left: 31%;
 }
