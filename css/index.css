@@ -58,16 +58,14 @@ html, body {
 }
 .text{
     font-family: Righteous;
-    font-size: 20vh;
+    font-size: 10vh;
     font-style: normal;
     color: #EBB1B1;
 }
 .doorname-text{
     position: fixed;
-    font-size: 18px;
-    font-weight: 900;
     text-align: center;
-    top: -4vh;
+    top: -3vh;
     left: 31%;
 }
 @keyframes roll {
